@@ -1,0 +1,137 @@
+/* ========================= */
+/* TABLETS */
+/* ========================= */
+
+@media(max-width:992px){
+
+.navbar{
+
+flex-direction:column;
+
+padding:20px;
+
+}
+
+.nav-links{
+
+margin-top:20px;
+
+flex-wrap:wrap;
+
+justify-content:center;
+
+}
+
+.hero h1{
+
+font-size:42px;
+
+}
+
+.hero p{
+
+font-size:18px;
+
+}
+
+.about{
+
+flex-direction:column;
+
+}
+
+.contact-container{
+
+flex-direction:column;
+
+}
+
+.stats{
+
+gap:40px;
+
+}
+
+}
+
+
+/* ========================= */
+/* MOBILE */
+/* ========================= */
+
+@media(max-width:768px){
+
+.hero{
+
+padding:60px 25px;
+
+}
+
+.hero h1{
+
+font-size:34px;
+
+}
+
+.hero p{
+
+font-size:16px;
+
+}
+
+.buttons{
+
+display:flex;
+
+flex-direction:column;
+
+align-items:center;
+
+gap:15px;
+
+}
+
+.btn,
+.btn-outline{
+
+margin:0;
+
+width:220px;
+
+text-align:center;
+
+}
+
+.service-card,
+.portfolio-card,
+.why-card{
+
+width:100%;
+
+}
+
+.about{
+
+padding:70px 25px;
+
+}
+
+.services,
+.portfolio,
+.why-us,
+.contact{
+
+padding:70px 25px;
+
+}
+
+}
+.nav-links{
+
+margin-top:20px;
+
+flex-wrap:wrap;
+
+justify-content:center;
+
+}
