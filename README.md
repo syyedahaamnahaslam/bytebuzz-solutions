@@ -53,7 +53,7 @@ ByteBuzz/
 ├── contact.html
 │
 ├── css/
-│   └── style.css
+│   └── style.css , responsive.css
 │
 ├── js/
 │   └── script.js
@@ -77,7 +77,7 @@ ByteBuzz/
 
 ## 📚 Internship Task
 
-This project was created as part of a **Web Development Internship**. The objective was to build a professional corporate business website using only HTML, CSS, and JavaScript while following responsive design principles and modern UI practices.
+This project was created as part of a **Web Development Internship** by Aptura tech solutions. The objective was to build a professional corporate business website using only HTML, CSS, and JavaScript while following responsive design principles and modern UI practices.
 
 ---
 
