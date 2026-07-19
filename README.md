@@ -105,7 +105,7 @@ This project was created as part of a **Web Development Internship** by Aptura t
 **Syeda Amna Aslam**
 
 - GitHub: https://github.com/syyedahaamnahaslam/
-- LinkedIn: https: https://github.com/syyedahaamnahaslam/
+- LinkedIn: https: www.linkedin.com/in/syeda-a-755b10375
 
 ---
 
